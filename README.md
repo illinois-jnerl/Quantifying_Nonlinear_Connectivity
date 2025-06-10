@@ -1,1 +1,1 @@
-# Quantifying_Nonlinear_Connectivity
+# Quantifying Nonlinear Connectivity
